@@ -69,6 +69,7 @@
 
     <fragment
         android:id="@+id/fragment_forecast"
+        class="com.example.android.sunshine.app.ForecastFragment"
         android:name="com.example.android.sunshine.app.ForecastFragment"
         android:layout_width="0dp"
         android:layout_height="match_parent"
